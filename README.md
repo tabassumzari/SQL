@@ -16,4 +16,5 @@
 | [0197-rising-temperature](https://github.com/tabassumzari/SQL/tree/main/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/tabassumzari/SQL/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/tabassumzari/SQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0620-not-boring-movies](https://github.com/tabassumzari/SQL/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
