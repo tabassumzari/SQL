@@ -18,6 +18,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/tabassumzari/SQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/tabassumzari/SQL/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/tabassumzari/SQL/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tabassumzari/SQL/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
