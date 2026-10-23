@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,5 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
