@@ -20,6 +20,7 @@
 | [0620-not-boring-movies](https://github.com/tabassumzari/SQL/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/tabassumzari/SQL/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1148-article-views-i](https://github.com/tabassumzari/SQL/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tabassumzari/SQL/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tabassumzari/SQL/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/tabassumzari/SQL/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Array
