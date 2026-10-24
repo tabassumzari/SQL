@@ -60,6 +60,7 @@
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tabassumzari/SQL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tabassumzari/SQL/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tabassumzari/SQL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tabassumzari/SQL/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 <!---LeetCode Topics End-->
