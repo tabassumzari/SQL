@@ -58,6 +58,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/tabassumzari/SQL/tree/main/0006-zigzag-conversion/) | Medium |
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
