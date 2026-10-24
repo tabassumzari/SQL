@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Two Pointers
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/tabassumzari/SQL/tree/main/0006-zigzag-conversion/) | Medium |
+| [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -81,4 +83,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
