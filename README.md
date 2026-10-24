@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,8 +58,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
+| [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
